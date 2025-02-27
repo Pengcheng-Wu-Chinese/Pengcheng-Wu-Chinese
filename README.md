@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Pengcheng Wu, a researcher from KTH Royal Institute of Technology working on Safety in Automated Vehicles. Before that, I obtained my PhD degree from UCSD in the USA, with an emphasis on motion planning and control for UAVs. You could reach me via email pcwupat@hotmail.com
+
 <!--
 **Pengcheng-Wu-Chinese/Pengcheng-Wu-Chinese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
